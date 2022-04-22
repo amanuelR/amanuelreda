@@ -157,7 +157,7 @@ h1 {
   font-size: 30px;
   color: #ecf0f1;
   text-shadow: 2px 2px 4px #000000;
-  font-family: 'Cherry Swash', cursive;
+   font-family: "Times New Roman", Times, serif;
 }
 
 #p1 {
@@ -166,7 +166,7 @@ h1 {
     width: 100%;
     text-align: center;
     color: black;
-    font-family: 'Cherry Swash',cursive;
+     font-family: "Times New Roman", Times, serif;
     font-size: 16px;
 }
 #p5 {
@@ -175,16 +175,16 @@ h1 {
     width: 100%;
     text-align: center;
     color: orange;
-    font-family: 'Cherry Swash',cursive;
+    font-family: "Times New Roman", Times, serif;
     font-size: 16px;
 }
 #p6 {
-	display: inline;
+    display: inline;
     bottom: 30px;
     width: 100%;
     text-align: center;
     color: white;
-    font-family: 'Cherry Swash',cursive;
+     font-family: "Times New Roman", Times, serif;
     font-size: 16px;
 }
 #p3 {
@@ -192,7 +192,7 @@ h1 {
     width: 100%;
     text-align: center;
     color: blue;
-    font-family: 'Cherry Swash',cursive;
+    font-family: "Times New Roman", Times, serif;
     font-size: 16px;
 }
 #p2{
@@ -200,7 +200,7 @@ h1 {
     bottom: 30px;
     width: 100%;
     color: orange;
-    font-family: 'Cherry Swash',cursive;
+     font-family: "Times New Roman", Times, serif;
     font-size: 16px;
 }
 #p4{
@@ -358,10 +358,10 @@ ion-icon{
 #msg{
     height: 280px;
     resize: none;
-    font-family: 'Cherry Swash',cursive;
+    font-family: "Times New Roman", Times, serif;
 }
 .form-submit-btn{
-	background: #34605e;
+    background: #34605e;
     color: #fff;
     text-transform: capitalize;
     padding: 15px 40px;
@@ -370,7 +370,7 @@ ion-icon{
     border: none;
     border-radius: 10px;
     cursor: pointer;
-	position: right;	
+    position: right;	
 }
 .form-submit-btn:hover{
     background: #1abc9c;
@@ -382,7 +382,7 @@ ion-icon{
     border: none;
     border-radius: 10px;
     cursor: pointer;
-	position: right;
+    position: right;
 }
 
 .map{
