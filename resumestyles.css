@@ -38,7 +38,6 @@ body {
 .right-sectionabout {
     grid-column: span 5;
     text-align: center;
-    background-color: #1B2631;
 }
 
 .left-section-contents{
