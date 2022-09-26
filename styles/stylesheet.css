@@ -22,8 +22,6 @@ nav a {
   color: white;
   cursor: pointer;
 }
-.navsocial:before{
-}
 .navsocial{
   margin: 27px auto 0;
   position: relative;
